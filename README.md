@@ -4,7 +4,11 @@ Hi 👋 My name is Ty @TyGrim
 Web/Software Developer
 ----------------------
 
-👨‍💻 I enjoy learning about new technologies. I started learning over 10 years ago with CSS, HTML and use many CMS frameworks like: Wordpress, BigEcommerce and Shopify. In 2021, I expanded my tech stack with React.JS, Node.JS, TypeScript, mySQL and started touching on Blockchain development with Solidity. I got started with Freelancing and have just started Blogging quite recently to share my expertises and experience. 🎸 Outside the world of tech too, I enjoy developing new skills in the arts and wellbeing like mindfulness. My hobbies are all over from guitar, painting, touch typing, meditation, breath-work, ice bathing, camping, dog training and I absolutely love to cook 100% PLANT-BASED. ✈️ I also enjoying traveling. I have been to over a dozen different countries. Some of my favorites so far have been: Vietnam, Bail, Indonesia and New Zealand
+👨‍💻 I enjoy learning about new technologies. I started learning over 10 years ago with CSS, HTML and use many CMS frameworks like: Wordpress, BigEcommerce and Shopify. In 2021, I expanded my tech stack with React.JS, Node.JS, TypeScript, mySQL and started touching on Blockchain development with Solidity. I got started with Freelancing and have just started Blogging quite recently to share my expertises and experience. 
+
+🎸 Outside the world of tech too, I enjoy developing new skills in the arts and wellbeing like mindfulness. My hobbies are all over from guitar, painting, touch typing, meditation, breath-work, ice bathing, camping, dog training and I absolutely love to cook 100% PLANT-BASED. 
+
+✈️ I also enjoying traveling. I have been to over a dozen different countries. Some of my favorites so far have been: Vietnam, Bail, Indonesia and New Zealand
 
 * 🖥️  See my portfolio at [ww.tysongyorfy.com](http://tysongyorfy.com)
 
