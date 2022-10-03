@@ -1,7 +1,7 @@
 Hi 👋 My name is Ty @TyGrim
 ===========================
 
-Software Engineer @ <a href ="www.code-distller.com ">Code-Distillers</a>
+Software Engineer @ <a href ="https://code-distillers.com/">Code-Distillers</a>
 ----------------------
 
 👨‍💻 - I enjoy learning about new technologies. I started learning over 10 years ago with CSS, HTML and CMS frameworks like: Wordpress, BigEcommerce and Shopify. In 2021, I expanded my tech stack with React.JS, Node.JS, TypeScript, mySQL and started touching on Blockchain development with Solidity. I got started with freelance work before returning to school obtainining a certificate in full-stack Development. I currently hold a Software Engineering postition with Code-Distillers focusing on UI/UX and AV Programing. 
