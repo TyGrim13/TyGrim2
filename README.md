@@ -1,14 +1,14 @@
-Hi 👋 My name is Ty @TyGrim
+Hi 👋 My name is Ty 
 ===========================
 
-Software Engineer @ <a href ="https://code-distillers.com/">Code-Distillers</a>
+Software Engineer & Creative
 ----------------------
 
-👨‍💻 - I enjoy learning about new technologies. I started learning over 10 years ago with CSS, HTML and CMS frameworks like: Wordpress, BigEcommerce and Shopify. In 2021, I expanded my tech stack with React.JS, Node.JS, TypeScript, mySQL and started touching on Blockchain development with Solidity. I got started with freelance work before returning to school obtainining a certificate in full-stack Development. I currently hold a Software Engineering postition with Code-Distillers focusing on UI/UX and AV Programing. 
+👨‍💻 - Always playing with new technologies keeps me current. I started learning over 10 years ago with CSS, HTML and CMS frameworks like: Wordpress, BigEcommerce and Shopify. In 2021, I expanded my tech stack with React.JS, Node.JS, TypeScript, mySQL and started touching on Blockchain development with Solidity. I lived well by starting with freelance work before returning to school obtainining a certificate in full-stack Development. I am currently seeking full-time position and come highly recommended by my previous employer as a Software Engineering with Code-Distillers in Las Vegas. 
 
-🎸 - Outside the world of tech too, I enjoy developing new skills in the arts and wellbeing like mindfulness. My hobbies are all over the map from guitar, song writting, painting, touch typing, content writing, poetry, meditation, breath-work, ice bathing, camping, dog training and I absolutely love to cook 100% PLANT-BASED. 
+🎸 - Outside the world of tech too, I enjoy developing new skills in the anything of the arts and like learn about optimizing well-being and health. My intrest are vast spreading all over the map from guitar, song writting, painting, content writing, poetry, meditation, breath-work, ice bathing, camping, dog training and I absolutely love to cook.🔥
 
-✈️ - I also enjoying traveling. I have been to over a dozen different countries. Some of my favorites so far have been: Vietnam, Bail and New Zealand
+✈️ - I also enjoying traveling. I have been to over a dozen different countries. Some of my favorites so far have been: Vietnam, Bail, New Zealand and my top fav Mexico City. 
 
 
 ### Skills
