@@ -4,11 +4,11 @@ Hi 👋 My name is Ty
 Software Engineer & Creative
 ----------------------
 
-👨‍💻 - Always playing with new technologies keeps me current. I started learning over 10 years ago with CSS, HTML and CMS frameworks like: Wordpress, BigEcommerce and Shopify. In 2021, I expanded my tech stack with React.JS, Node.JS, TypeScript, mySQL and started touching on Blockchain development with Solidity. I lived well by starting with freelance work before returning to school obtainining a certificate in full-stack Development. I am currently seeking full-time position and come highly recommended by my previous employer as a Software Engineering with Code-Distillers in Las Vegas. 
+👨‍💻 - Always immersed in new technologies to stay up-to-date. My journey began over 10 years ago, diving into CSS, HTML, and CMS frameworks such as Wordpress, BigEcommerce, and Shopify. In 2021, I enriched my tech stack with React.JS, Node.JS, TypeScript, and mySQL. I initially ventured into the world of freelancing, which gave me invaluable experiences, and later, I returned to academia to secure a certificate in Full-stack Development. At present, I'm on the lookout for a full-time role. My role as a Software Engineer with Code-Distillers in Las Vegas has armed me with robust recommendations from my previous employer.
 
-🎸 - Outside the world of tech too, I enjoy developing new skills in the anything of the arts and like learn about optimizing well-being and health. My intrest are vast spreading all over the map from guitar, song writting, painting, content writing, poetry, meditation, breath-work, ice bathing, camping, dog training and I absolutely love to cook.🔥
+🎸 - Beyond the realm of technology, I'm a continuous learner, always eager to acquire novel skills. The arts captivate me, and I'm forever curious about ways to enhance well-being and health. My interests span a broad spectrum – from guitar, songwriting, painting, content creation, and poetry to meditation, breath-work, ice baths, camping, and dog training. And yes, I have an unbridled passion for cooking.🔥
 
-✈️ - I also enjoying traveling. I have been to over a dozen different countries. Some of my favorites so far have been: Vietnam, Bail, New Zealand and my top fav Mexico City. 
+✈️ - Traveling fuels my soul. My passport is stamped with memories from over a dozen countries. Some places that have left an indelible mark on me include Vietnam, Bali, New Zealand, with Mexico City topping the list.
 
 
 ### Skills
@@ -38,6 +38,5 @@ Software Engineer & Creative
 
 <p align="left"> <a href="https://www.codepen.io/tygrim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/TyGrim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_unomas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tyson-gyorfy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 
